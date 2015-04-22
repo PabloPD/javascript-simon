@@ -84,25 +84,25 @@ p[data-action="lose"] {
 }
 
 .red {
-	background: #FF5643;
+	background: #FA58D0;
 	clip: rect(0px, 300px, 150px, 150px);
 	width: 296px;
 }
 
 .blue {
-	background: dodgerblue;
+	background: #2EFEC8;
 	clip: rect(0px, 150px, 150px, 0px);
 	width: 300px;
 }
 
 .yellow {
-	background: #FEEF33;
+	background: #82FA58;
 	clip: rect(150px, 150px, 300px, 0px);
 	width: 300px;
 }
 
 .green {
-	background: #BEDE15;
+	background: #FFFF00;
 	clip: rect(150px,300px, 300px, 150px);
 	width: 296px;
 }
